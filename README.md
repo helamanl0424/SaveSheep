@@ -1,5 +1,5 @@
 # SaveSheep
-It is a simple 2D RPG game in which you move your character to save all the sheep
+It is a simple 2D RPG game in which you move your character to save all the sheeps
 # How to start the game?
 You can start the game by simply complie and then run Game.java
 # How to play?
